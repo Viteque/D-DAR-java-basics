@@ -21,7 +21,7 @@ public class git {
         int w = 10, x = 10, y = 10, z = 10;
         System.out.println(w + x + y + z);
 
-        double pi  = 3.1415926535;
+        double pi = 3.1415926535;
         System.out.println(pi);
         double S = 9.80665;
         System.out.println(S);
@@ -30,12 +30,14 @@ public class git {
 
 
         int j = 4;
-        byte k = (byte)j;
+        byte k = (byte) j;
         System.out.println(k);
 
         byte h = 7;
         int g = h;
         System.out.println(h);
+
+     //   hello world
 
 
 
