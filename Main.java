@@ -2,18 +2,19 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String flowersName = "Roses";
-        System.out.println(flowersName);
 
-        int flowersNumber = 101;
-        System.out.println(flowersNumber);
-
-        int a = 15;
-        int b = 10;
-        System.out.println(a + b);
-
-        int c = a + b;
-        System.out.println(c);
+//        String flowersName = "Roses";
+//        System.out.println(flowersName);
+//
+//        int flowersNumber = 101;
+//        System.out.println(flowersNumber);
+//
+//        int a = 15;
+//        int b = 10;
+//        System.out.println(a + b);
+//
+//        int c = a + b;
+//        System.out.println(c);
 
 //            int a = 4;
 //            byte b = (byte)a;
