@@ -32,9 +32,16 @@ public class Lesson5 {
 //            letterGrade = 'A';
 //        }
 //        System.out.println("Grade: " + grade + ", Letter: " + letterGrade);
-//
-//
-//
-//
+
+        int number = 12345;
+        String numberSTR = Integer.toString(number);
+        String numberREV = "";
+        for (int i = numberSTR.length() - 1; i >= 0; i--) {
+            numberREV += numberSTR.charAt(i);
+
+        }
+        System.out.println("Reversed: " + numberREV);
+
+        
     }
 }

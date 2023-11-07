@@ -1,5 +1,5 @@
-//public class qbe5 {
-//    public static void main(String[] args) {
+public class qbe5 {
+    public static void main(String[] args) {
 //        int x = 10;
 //        int y = 5;
 //        if (10 > 5) {
@@ -64,8 +64,8 @@
 //            case 7: {
 //                System.out.println("Воскресенье");
 //                break;
-public class qbe5 {
-    public static void main(String[] args) {
+//public class qbe5 {
+//    public static void main(String[] args) {
 //        int i = 0;
 //        while (i < 5) {   //While
 //            System.out.println(i);
@@ -101,23 +101,23 @@ public class qbe5 {
 //            }
 //            System.out.println(i);
 //        }
+        int i = 0;
+        while (i < 6) {
+            if (i == 3)
+                break;
+            System.out.println(i);
+            i++;
+        }
 //        int i = 0;
 //        while (i < 6) {
-//            if (i == 3)
-//                break;
-//            System.out.println(i);
-//            i++;
-//        }
-//        int i = 0;
-//        while (i < 6) {
-//            if (i == 3) {
+//        if (i == 3) {
 //                i++;
 //                continue;
 //            }
 //            System.out.println(i);
-//            i++;
+//           i++;
 //        }
-
+//
     }
 }
 
