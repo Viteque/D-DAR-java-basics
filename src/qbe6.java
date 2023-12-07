@@ -1,0 +1,2 @@
+public class qbe6 {
+}
